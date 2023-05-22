@@ -1,0 +1,5 @@
+C:\Users\aria_\source\repos\stackArray test\bin\publish\stackArray test.exe
+C:\Users\aria_\source\repos\stackArray test\bin\publish\stackArray test.dll
+C:\Users\aria_\source\repos\stackArray test\bin\publish\stackArray test.deps.json
+C:\Users\aria_\source\repos\stackArray test\bin\publish\stackArray test.runtimeconfig.json
+C:\Users\aria_\source\repos\stackArray test\bin\publish\stackArray test.pdb

@@ -1,0 +1,14 @@
+C:\Users\aria_\source\repos\stackArray test\bin\x64\test\netcoreapp3.1\stackArray test.exe
+C:\Users\aria_\source\repos\stackArray test\bin\x64\test\netcoreapp3.1\stackArray test.deps.json
+C:\Users\aria_\source\repos\stackArray test\bin\x64\test\netcoreapp3.1\stackArray test.runtimeconfig.json
+C:\Users\aria_\source\repos\stackArray test\bin\x64\test\netcoreapp3.1\stackArray test.runtimeconfig.dev.json
+C:\Users\aria_\source\repos\stackArray test\bin\x64\test\netcoreapp3.1\stackArray test.dll
+C:\Users\aria_\source\repos\stackArray test\bin\x64\test\netcoreapp3.1\stackArray test.pdb
+C:\Users\aria_\source\repos\stackArray test\obj\x64\test\netcoreapp3.1\stackArray test.csproj.AssemblyReference.cache
+C:\Users\aria_\source\repos\stackArray test\obj\x64\test\netcoreapp3.1\stackArray test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria_\source\repos\stackArray test\obj\x64\test\netcoreapp3.1\stackArray test.AssemblyInfoInputs.cache
+C:\Users\aria_\source\repos\stackArray test\obj\x64\test\netcoreapp3.1\stackArray test.AssemblyInfo.cs
+C:\Users\aria_\source\repos\stackArray test\obj\x64\test\netcoreapp3.1\stackArray test.csproj.CoreCompileInputs.cache
+C:\Users\aria_\source\repos\stackArray test\obj\x64\test\netcoreapp3.1\stackArray test.dll
+C:\Users\aria_\source\repos\stackArray test\obj\x64\test\netcoreapp3.1\stackArray test.pdb
+C:\Users\aria_\source\repos\stackArray test\obj\x64\test\netcoreapp3.1\stackArray test.genruntimeconfig.cache
