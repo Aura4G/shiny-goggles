@@ -1,0 +1,16 @@
+C:\Users\aria_\source\repos\pokemon database\bin\Debug\netcoreapp3.1\pokemon database.exe
+C:\Users\aria_\source\repos\pokemon database\bin\Debug\netcoreapp3.1\pokemon database.deps.json
+C:\Users\aria_\source\repos\pokemon database\bin\Debug\netcoreapp3.1\pokemon database.runtimeconfig.json
+C:\Users\aria_\source\repos\pokemon database\bin\Debug\netcoreapp3.1\pokemon database.runtimeconfig.dev.json
+C:\Users\aria_\source\repos\pokemon database\bin\Debug\netcoreapp3.1\pokemon database.dll
+C:\Users\aria_\source\repos\pokemon database\bin\Debug\netcoreapp3.1\pokemon database.pdb
+C:\Users\aria_\source\repos\pokemon database\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\aria_\source\repos\pokemon database\obj\Debug\netcoreapp3.1\pokemon database.csproj.AssemblyReference.cache
+C:\Users\aria_\source\repos\pokemon database\obj\Debug\netcoreapp3.1\pokemon database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria_\source\repos\pokemon database\obj\Debug\netcoreapp3.1\pokemon database.AssemblyInfoInputs.cache
+C:\Users\aria_\source\repos\pokemon database\obj\Debug\netcoreapp3.1\pokemon database.AssemblyInfo.cs
+C:\Users\aria_\source\repos\pokemon database\obj\Debug\netcoreapp3.1\pokemon database.csproj.CoreCompileInputs.cache
+C:\Users\aria_\source\repos\pokemon database\obj\Debug\netcoreapp3.1\pokemon database.csproj.CopyComplete
+C:\Users\aria_\source\repos\pokemon database\obj\Debug\netcoreapp3.1\pokemon database.dll
+C:\Users\aria_\source\repos\pokemon database\obj\Debug\netcoreapp3.1\pokemon database.pdb
+C:\Users\aria_\source\repos\pokemon database\obj\Debug\netcoreapp3.1\pokemon database.genruntimeconfig.cache

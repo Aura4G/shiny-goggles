@@ -1,0 +1,6 @@
+dexNum,monName,Type1,Type2,HP,attack,defence,spAttack,spDefence,speed,ability
+1,Bulbasaur,Grass,Poison,45,49,49,65,65,45,Overgrow
+2,Ivysaur,Grass,Poison,60,62,63,80,80,60,Overgrow
+3,Venusaur,Grass,Poison,80,82,83,100,100,80,Overgrow
+170,Chinchou,Water,Electric,75,38,38,56,56,67,Volt Absorb
+392,Infernape,Fire,Fighting,76,104,71,104,71,108,Blaze

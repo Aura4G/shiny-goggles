@@ -1,0 +1,6 @@
+C:\Users\aria_\source\repos\pokemon database\bin\publish\pokemon database.exe
+C:\Users\aria_\source\repos\pokemon database\bin\publish\pokemon database.dll
+C:\Users\aria_\source\repos\pokemon database\bin\publish\pokemon database.deps.json
+C:\Users\aria_\source\repos\pokemon database\bin\publish\pokemon database.runtimeconfig.json
+C:\Users\aria_\source\repos\pokemon database\bin\publish\pokemon database.pdb
+C:\Users\aria_\source\repos\pokemon database\bin\publish\CsvHelper.dll
